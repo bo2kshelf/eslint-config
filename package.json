@@ -19,8 +19,8 @@
     "access": "public"
   },
   "files": [
-    "next.js",
-    "nest.js"
+    "nest.js",
+    "next.js"
   ],
   "scripts": {
     "fmt": "run-s -cn fmt:*",
@@ -36,7 +36,7 @@
   },
   "devDependencies": {
     "@arkweid/lefthook": "0.7.2",
-    "@bo2kshelf/eslint-plugin": "^1.1.0",
+    "@bo2kshelf/eslint-plugin": "^1.2.0",
     "@bo2kshelf/prettier-config": "^1.0.0",
     "@commitlint/cli": "11.0.0",
     "@commitlint/config-conventional": "11.0.0",
