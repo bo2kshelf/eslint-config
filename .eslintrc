@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "plugin:@bo2kshelf/esnext",
+    "plugin:@bo2kshelf/node",
+    "plugin:@bo2kshelf/jest",
+    "plugin:@bo2kshelf/prettier"
+  ],
+  "rules": {
+    "node/no-missing-require": [2]
+  }
+}
