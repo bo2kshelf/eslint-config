@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/bo2kshelf/eslint-config/compare/v1.1.0...v1.1.1) (2021-02-01)
+
+
+### Bug Fixes
+
+* Fix dependencies ([0043231](https://github.com/bo2kshelf/eslint-config/commit/0043231687e92d2237145d4b3faef9c97af1cdd4))
+
 # [1.1.0](https://github.com/bo2kshelf/eslint-config/compare/v1.0.0...v1.1.0) (2021-02-01)
 
 
