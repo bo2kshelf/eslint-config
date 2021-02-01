@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/bo2kshelf/eslint-config/compare/v1.0.0...v1.1.0) (2021-02-01)
+
+
+### Features
+
+* Update @bo2kshelf/eslint-plugin ([fc0c7b6](https://github.com/bo2kshelf/eslint-config/commit/fc0c7b6945e0d01c4264f6fe65451a69245b4fe1))
+
 # 1.0.0 (2021-02-01)
 
 
