@@ -32,11 +32,11 @@
     "lint:renovate": "scripty"
   },
   "dependencies": {
-    "@bo2kshelf/eslint-plugin": "^1.2.0"
+    "@bo2kshelf/eslint-plugin": "1.2.0"
   },
   "devDependencies": {
     "@arkweid/lefthook": "0.7.2",
-    "@bo2kshelf/prettier-config": "^1.0.0",
+    "@bo2kshelf/prettier-config": "1.0.0",
     "@commitlint/cli": "11.0.0",
     "@commitlint/config-conventional": "11.0.0",
     "@semantic-release/changelog": "5.0.1",
@@ -45,9 +45,9 @@
     "@semantic-release/github": "7.1.2",
     "@semantic-release/npm": "7.0.8",
     "@semantic-release/release-notes-generator": "9.0.1",
-    "eslint": "^7.19.0",
-    "jest": "^26.6.3",
-    "npm-run-all": "^4.1.5",
+    "eslint": "7.19.0",
+    "jest": "26.6.3",
+    "npm-run-all": "4.1.5",
     "prettier": "2.1.2",
     "prettier-plugin-optipack": "1.1.2",
     "scripty": "2.0.0",
